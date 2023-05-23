@@ -1,4 +1,4 @@
-# evader2D
+# NSU Evader2D
 This is a 2D game developed using Unity
 
 <img width="793" alt="Evader-1" src="https://github.com/glenda1015/evader2D/assets/85639833/b25b7d4f-d617-4e8b-bd35-0eaed262e2bd">
